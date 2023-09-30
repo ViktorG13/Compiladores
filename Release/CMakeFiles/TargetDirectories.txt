@@ -1,3 +1,0 @@
-/home/kaleb/Documentos/Cursos/Compiladores/Release/CMakeFiles/postfix.dir
-/home/kaleb/Documentos/Cursos/Compiladores/Release/CMakeFiles/edit_cache.dir
-/home/kaleb/Documentos/Cursos/Compiladores/Release/CMakeFiles/rebuild_cache.dir

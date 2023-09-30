@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/postfix.dir/src/parser.cpp.o CMakeFiles/postfix.dir/src/postfix.cpp.o -o postfix 

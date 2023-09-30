@@ -1,13 +1,19 @@
 #include <iostream>
-
-using std::cout;
-using std::endl;
+#include "parser.h"
+using namespace std;
 
 int main(int argc, char const *argv[])
 {
-  for (int i = 1; i < argc; i++)
+  Parser tradutor;
+  try
   {
-    cout << argv[i] << endl;
-  }  
+    tradutor.Start();
+  }
+  catch (SyntaxError)
+  {
+    cout << "^\n";
+    cout << "Erro de sintaxe";
+  }
+  cout << endl;
   return 0;
 }

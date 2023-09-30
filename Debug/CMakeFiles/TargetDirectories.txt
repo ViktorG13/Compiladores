@@ -1,3 +1,3 @@
-/workspaces/Compiladores/Debug/CMakeFiles/postfix.dir
-/workspaces/Compiladores/Debug/CMakeFiles/edit_cache.dir
-/workspaces/Compiladores/Debug/CMakeFiles/rebuild_cache.dir
+/home/kaleb/Documentos/Cursos/Compiladores/Debug/CMakeFiles/postfix.dir
+/home/kaleb/Documentos/Cursos/Compiladores/Debug/CMakeFiles/edit_cache.dir
+/home/kaleb/Documentos/Cursos/Compiladores/Debug/CMakeFiles/rebuild_cache.dir
